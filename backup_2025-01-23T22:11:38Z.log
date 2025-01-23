@@ -1,5 +1,0 @@
-[0;32mInput collection complete[0m
-[0;32mInput validation complete[0m
-Creating backup
-[0;32mRsync command: rsync -av  /home/ahmad_3madd/dir1 remote@00:00:00:00:00:00:/home/remote/backup_2025-01-23T22:13:27Z[0m
-[0;31mError during rsync. Aborting.[0m
