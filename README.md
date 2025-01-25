@@ -61,12 +61,12 @@ To run the system health script:
 
 2. Make the script executable:
    ```bash
-   chmod +x system_health.sh
+   chmod +x system-health.sh
    ```
 
 3. Run the script:
    ```bash
-   ./system_health.sh
+   ./system-health.sh
    ```
 
 4. The script will display the system health report, including disk space, memory usage, and system updates.
