@@ -5,7 +5,7 @@
 This repository contains two key scripts:
 
 1. **backup.sh**: A shell script for creating backups of a specified directory based on user inputs. It supports local and remote backups with options for compression, encryption, and exclusions.
-2. **system_health.sh**: A shell script for generating a system health report, checking disk space, memory usage, running services, and the status of system updates.
+2. **system-health.sh**: A shell script for generating a system health report, checking disk space, memory usage, running services, and the status of system updates.
 
 ## Features
 
@@ -19,7 +19,7 @@ This repository contains two key scripts:
 - **Cleanup Mechanism**: Deletes incomplete backups if the script is interrupted, ensuring a clean environment.
 - **Input Validation**: Ensures that the user inputs are valid and that the required directories and files exist.
 
-### system_health.sh
+### system-health.sh
 - **Disk Space Check**: Provides a report on the system's storage usage, including warnings when disk space usage exceeds 90%.
 - **Memory Usage**: Displays current memory and swap usage with alerts if memory consumption is high.
 - **Running Services**: Lists active system services.
@@ -49,7 +49,7 @@ To run the backup script:
 
 4. Follow the on-screen prompts to configure your backup preferences.
 
-### system_health.sh
+### system-health.sh
 
 To run the system health script:
 
