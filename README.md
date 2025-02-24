@@ -1,5 +1,8 @@
 # Backup and System Health Check Script
 
+## Documentation
+For detailed information refer to the [Linux Backup and System Health Shell Scripting Report.pdf](Linux%20Backup%20and%20System%20Health%20Shell%20Scripting%20Report.pdf).
+
 ## Description
 
 This repository contains two key scripts:
