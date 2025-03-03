@@ -1,7 +1,9 @@
 # Backup and System Health Check Script
 
-## Documentation
-For detailed information refer to the [Linux Backup and System Health Shell Scripting Report.pdf](Linux%20Backup%20and%20System%20Health%20Shell%20Scripting%20Report.pdf).
+_By Ahmad Emad_  
+- **YouTube Video**: [Watch Here](https://www.youtube.com/watch?v=EsSXpTnk0D4)  
+- **Documentation**: [Click Here](Linux%20Backup%20and%20System%20Health%20Shell%20Scripting%20Report.pdf).
+- **Email**: [ahmademad995.ae@gmail.com](mailto:ahmademad995.ae@gmail.com)
 
 ## Description
 
